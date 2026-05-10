@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Syed Aun Muhammad 
 
-<!--
-**syedaun-muhammad/syedaun-muhammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSSE Student | 2nd Semester | Islamabad, Pakistan
+Currently Learning Python for AI/ML
+Practicing daily — check my repositories!
+Goal: AI/ML Engineer
 
-Here are some ideas to get you started:
+ Skills
+- Python (Beginner → Intermediate)
+- Data Structures
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Projects
+- ATM Machine
+- Voting System
+- Exam System
+- Shopping Cart
+
+Currently Learning
+- Python Functions
+- OOP Basics
+- NumPy & Pandas (after exams)
+
+Contact
+syedaunmohammadali@gmail.com
+Islamabad, Pakistan
